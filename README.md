@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @YannGeay
+- 👀 I’m interested in Kotin and Android studio développement 
+- 🌱 I’m currently learning Kotlin and C#
